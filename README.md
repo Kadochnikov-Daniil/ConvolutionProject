@@ -1,3 +1,5 @@
+![CI Status](https://github.com/Kadochnikov-Daniil/ConvolutionProject/actions/workflows/ci.yml/badge.svg)
+
 # Parallel Image Convolution
 
 ## Overview
